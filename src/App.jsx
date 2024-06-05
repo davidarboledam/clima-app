@@ -49,7 +49,6 @@ function App() {
       }
     }, [coords]);
 
-    console.log(temp)
 
   return (
     <div className='app'>
